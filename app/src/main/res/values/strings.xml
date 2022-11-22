@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">View_Register</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="j_tem_uma_conta_entre_aqui">Já tem uma conta? Entre aqui</string>
+</resources>
